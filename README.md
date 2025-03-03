@@ -1,9 +1,8 @@
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kamilahan)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Danfin)
 
 ---
+
 
 ### 🐝 Hi, I'm Kamila!
 
@@ -17,11 +16,35 @@ I'm currently pursuing my **Bachelor's degree in Engineering and Informatics** a
 
 📫 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kamilahan)  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Danfin)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kamilahan">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a> &nbsp;&nbsp;
+  <a href="https://t.me/Danfin">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" />
+  </a>
+</p>
+
+### 📬 Let's connect!  
+<p align="left">
+  <a href="https://www.linkedin.com/in/kamilahan">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://t.me/Danfin">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+### ⚡ Technologies & Skills:
+
+|----------|---------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| ![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat-square&logo=api&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
 🛸 *Let's build something great together!* 
 
 

@@ -14,60 +14,32 @@ I'm currently pursuing my **Bachelor's degree in Engineering and Informatics** a
 
 🔍 Open to collaboration, learning opportunities, and exciting challenges!
 
-📫 Let's connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kamilahan">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
-  </a> &nbsp;&nbsp;
-  <a href="https://t.me/Danfin">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" />
-  </a>
-</p>
-
 ### 📬 Let's connect!  
-<p align="left">
-  <a href="https://www.linkedin.com/in/kamilahan">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a href="https://t.me/Danfin">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" />
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kamilahan) &nbsp;
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Danfin)
 
 ---
 
-### ⚡ Technologies & Skills:
+### ⚡ Technologies & Tools:
 
-|----------|---------------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| ![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat-square&logo=api&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| Frontend | Backend | Databases | Tools | Mobile |
+|----------|---------|-----------|-------|--------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | |  |  |  |
+| ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white) | |  |  |  |
+| ![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat-square&logo=api&logoColor=white) |  |  |  |  |
+| ![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-339AF0?style=flat-square&logo=mantine&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |  |  |  |  |
 
 ---
+
 🛸 *Let's build something great together!* 
 
 
----
-
-### ⚡ Technologies & Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat-square&logo=api&logoColor=white)
-![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-339AF0?style=flat-square&logo=mantine&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
+<!--
 ✔ [React](https://github.com/твой-репозиторий-с-react)  
 ✔ [Node.js](https://github.com/твой-репозиторий-с-backend)  
 -->
-
-
 
 <!--
 ### 📊 GitHub Stats:
@@ -81,8 +53,6 @@ I'm currently pursuing my **Bachelor's degree in Engineering and Informatics** a
 
 
 
-
-<!-- TODO-IST:END -->
 
 <!--
 **Kamilahan/Kamilahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
